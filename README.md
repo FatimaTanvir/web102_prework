@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 -> Here's a walkthrough of implemented features:
 
-<img src="https://i.imgur.com/YOUR_IMAGE_ID.gif" title="Video Walkthrough" alt="Video Walkthrough" width="100%" />
+<img src="https://imgur.com/a/aVGmmdt.gif" title="Video Walkthrough" alt="Video Walkthrough" width="100%" />
 
 GIF created with ...  
 -> [CloudConvert](https://cloudconvert.com/mov-to-gif)
