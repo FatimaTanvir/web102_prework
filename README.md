@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 -> Here's a walkthrough of implemented features:
 
-<iframe src="https://drive.google.com/file/d/1OBIZqWoz5o_mwqSXVov3MMWKNnIUx9qB/preview" width="640" height="480" allow="autoplay"></iframe>
+<img src="https://i.imgur.com/YOUR_IMAGE_ID.gif" title="Video Walkthrough" alt="Video Walkthrough" width="100%" />
 
 GIF created with ...  
 -> [CloudConvert](https://cloudconvert.com/mov-to-gif)
