@@ -188,3 +188,17 @@ firstGameContainer.append(topPledge);
 const secondPledge = document.createElement("h2");
 secondPledge.innerHTML = `${secondGame.name}`;
 secondGameContainer.append(secondPledge);
+
+// Create and append image for the top pledge game
+const topPledgeImg = document.createElement("img");
+topPledgeImg.src = firstGame.img;
+topPledgeImg.alt = `Image of ${firstGame.name}`;
+topPledgeImg.classList.add("game-img"); // Optional: use same class for consistent styling
+firstGameContainer.append(topPledgeImg);
+
+// do the same for the second top pledge game
+const secondPledgeImg = document.createElement("img");
+secondPledgeImg.src = secondGame.img;
+secondPledgeImg.alt = `Image of ${secondGame.name}`;
+secondPledgeImg.classList.add("game-img");
+secondGameContainer.append(secondPledgeImg);
