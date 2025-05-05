@@ -1,4 +1,6 @@
 // Image credits: Kickstarter
+// backers = individual contributions
+// pledged = 
 const games = ` [
   {
     "name": "Heroes Of Mythic Americas",
