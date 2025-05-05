@@ -1,4 +1,4 @@
-# WEB102 Prework - *💰MonsterFundede💰*
+# WEB102 Prework - *💰MonsterFunded💰*
 
 Submitted by: **Fatima Tanvir**
 
